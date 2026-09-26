@@ -58,7 +58,7 @@ status. Extension `HealthStatusStyle` memetakan status ke warna:
 | `Offline` | Merah |
 
 ### `lib/widgets/shimmer_card.dart`
-Efek shimmer (gradient beranimasi) murni Flutter — tanpa package eksternal.
+Efek shimmer (gradient beranimasi) murni Flutter tanpa package eksternal.
 
 ## Menjalankan
 
